@@ -5,7 +5,7 @@
 
 
 ### About me
-    i completed my Be degree in 2021 and i currenly learing in  java full stack develpment in newton School coding bootcamp
+    i completed my Be degree in 2021 and i currenly learing  java full stack develpment in newton School coding bootcamp.
    
 ### java programming branch link
   click the below link to see my practice programs and you can edit if you hava  ***optimal Solution***
